@@ -2,7 +2,7 @@
 
 1. Сначала запустить сервер 
 
-php -S localhost:80
+php -S localhost:80 test.php
 
 2. Затем открыть в браузере app.js
 
